@@ -10,7 +10,7 @@ Building a full featured forum
 # Technology Used
 - Dependencides: npm
 
-- Front-end: TypeScript, ReactJS, Babel, Webpack
+- Front-end: TypeScript, ReactJS(Considering Angular), Babel, Webpack
 
 - CSS Framework: CSS
 
